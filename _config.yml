@@ -1,1 +1,4 @@
 theme: jekyll-theme-minimal
+name: Bertrand Schneider Alfred Blog
+markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
